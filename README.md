@@ -1,5 +1,5 @@
 # lab-01-terminal
 
-# Hello world!
+## Hello world!
 
-# Is this working?
+### Is this working?
