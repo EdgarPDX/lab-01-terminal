@@ -17,6 +17,8 @@ cd ..
 
 echo "Hello There!!" > greeting.md
 
+code .
+
 ```
 
 # H1 text
